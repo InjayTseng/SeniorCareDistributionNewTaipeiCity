@@ -1,6 +1,10 @@
 # SeniorCareDistributionNewTaipeiCity
 
 
+## 作品截圖
+![Alt text](https://github.com/InjayTseng/SeniorCareDistributionNewTaipeiCity/Screenshots/Hackathon1.png)
+
+
 ## 實作動機
 
 人口老化問題迫在眉睫
@@ -23,9 +27,12 @@
 新北市銀髮族福利資料庫整理 API
 
 ## 相關連結
-* 作品網址：https://datawrapper.dwcdn.net/prL9c/1/
+* 作品網址：
+https://datawrapper.dwcdn.net/prL9c/1/
 * 資料整理與再開放：
 https://65info.tw/api/welfare?keywords=新北市
+* 參考資料：
+http://kiang.github.io/tw_population/
 
 
 
