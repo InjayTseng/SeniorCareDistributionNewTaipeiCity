@@ -2,7 +2,7 @@
 
 
 ## 作品截圖
-![Alt text](https://github.com/InjayTseng/SeniorCareDistributionNewTaipeiCity/Screenshots/Hackathon1.png)
+![Alt text](https://github.com/InjayTseng/SeniorCareDistributionNewTaipeiCity/blob/master/Screenshots/Hackathon1.png)
 
 
 ## 實作動機
