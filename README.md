@@ -1,5 +1,7 @@
 # SeniorCareDistributionNewTaipeiCity
 
+## 簡報下載
+https://drive.google.com/open?id=0B-cZzi3BQTWAN1FCSk9MX25ZNlk
 
 ## 作品截圖
 ![Alt text](https://github.com/InjayTseng/SeniorCareDistributionNewTaipeiCity/blob/master/Screenshots/Hackathon1.png)
